@@ -1,1 +1,1 @@
-# template
+# Template base para pruebas
